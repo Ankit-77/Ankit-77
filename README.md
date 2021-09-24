@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning B.Tech - CSE
 - 💞️ I’m looking to collaborate on Machine learning project and neural networks project
 - 📫 How to reach me gmail : ankitkumarpradhan144@gmail.com
-                     instagram : _24ksmile_
+                     instagram : https://www.instagram.com/_24ksmile_/
                      linkedIn : https://www.linkedin.com/in/ankit-pradhan-052353221/
 
 <!---
